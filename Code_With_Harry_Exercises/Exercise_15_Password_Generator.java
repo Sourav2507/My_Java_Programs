@@ -20,6 +20,6 @@ public class Exercise_15_Password_Generator {
             password+=ch.charAt(index);
         }
 
-        System.out.println("Generated password is :  "+password);
+        System.out.println("\nGenerated password is :  "+password);
     }
 }
